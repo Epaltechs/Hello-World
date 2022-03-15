@@ -9,12 +9,17 @@ My first project during the first week of training in Microverse.
 - CSS
 - Linters
 ​
-​
-​
 ## Getting Started
-​
+
 To get a local copy up and running follow these simple example steps.
-​
+
+- copy this link `https://github.com/Epaltechs/Hello-World.git`.
+- get the directory that you want to clone the repository.
+- open the command prompt in this directory.
+- write `git clone https://github.com/ShoiraTa/blog_app.git`.
+- go to the repository folder in your command prompt `cd Hello-World`
+
+
 ## Authors
 
 👤 **Emmnanuel Paul**
@@ -33,7 +38,3 @@ Contributions, issues, and feature requests are welcome!
 ​
 If you like this project you can support just by giving a like.
 Emmanuel Paul to Everyone (10:25)
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
