@@ -9,12 +9,6 @@ My first project during the first week of training in Microverse.
 - CSS
 - Linters
 ​
-​
-​
-## Getting Started
-​
-To get a local copy up and running follow these simple example steps.
-​
 ## Authors
 
 👤 **Emmnanuel Paul**
@@ -33,7 +27,3 @@ Contributions, issues, and feature requests are welcome!
 ​
 If you like this project you can support just by giving a like.
 Emmanuel Paul to Everyone (10:25)
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
