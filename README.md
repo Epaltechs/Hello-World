@@ -9,6 +9,11 @@ My first project during the first week of training in Microverse.
 - CSS
 - Linters
 ​
+## Getting Started
+​
+git clone https://github.com/Epaltechs/Hello-World.git
+cd Hello-World
+​
 ## Authors
 
 👤 **Emmnanuel Paul**
