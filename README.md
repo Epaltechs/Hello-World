@@ -10,10 +10,16 @@ My first project during the first week of training in Microverse.
 - Linters
 ​
 ## Getting Started
-​
-git clone https://github.com/Epaltechs/Hello-World.git
-cd Hello-World
-​
+
+To get a local copy up and running follow these simple example steps.
+
+- copy this link `https://github.com/Epaltechs/Hello-World.git`.
+- get the directory that you want to clone the repository.
+- open the command prompt in this directory.
+- write `git clone https://github.com/ShoiraTa/blog_app.git`.
+- go to the repository folder in your command prompt `cd Hello-World`
+
+
 ## Authors
 
 👤 **Emmnanuel Paul**
